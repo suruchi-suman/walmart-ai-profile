@@ -1,0 +1,2967 @@
+[
+  {
+    "customer_id": "e50194c8",
+    "name": "Vihaan Kapoor",
+    "age": 40,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-05"
+    },
+    "issues": [
+      "Late delivery"
+    ],
+    "satisfaction_score": 2.5,
+    "churned": true,
+    "email": "faulknerashley@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1628
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 299
+      }
+    ]
+  },
+  {
+    "customer_id": "de4f3330",
+    "name": "Ira Patel",
+    "age": 24,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-14"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 4.4,
+    "churned": true,
+    "email": "juliapham@hotmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 694
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1967
+      }
+    ]
+  },
+  {
+    "customer_id": "69f10ff5",
+    "name": "Vivaan Verma",
+    "age": 29,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-07"
+    },
+    "issues": [
+      "Wrong item"
+    ],
+    "satisfaction_score": 3.0,
+    "churned": true,
+    "email": "kelseycortez@yahoo.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 996
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 827
+      }
+    ]
+  },
+  {
+    "customer_id": "c78b2545",
+    "name": "Ira Gupta",
+    "age": 47,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-17"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 4.5,
+    "churned": false,
+    "email": "erasmussen@hotmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1503
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1297
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1783
+      }
+    ]
+  },
+  {
+    "customer_id": "7eb436c5",
+    "name": "Kiara Verma",
+    "age": 35,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-25"
+    },
+    "issues": [],
+    "satisfaction_score": 2.3,
+    "churned": true,
+    "email": "vwood@sawyer-le.biz",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1927
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 573
+      }
+    ]
+  },
+  {
+    "customer_id": "7fb46e04",
+    "name": "Vihaan Chopra",
+    "age": 30,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 3.8,
+    "churned": true,
+    "email": "davidosborne@smith-byrd.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 311
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1691
+      }
+    ]
+  },
+  {
+    "customer_id": "b7ebbead",
+    "name": "Kiara Verma",
+    "age": 40,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-15"
+    },
+    "issues": [],
+    "satisfaction_score": 4.8,
+    "churned": false,
+    "email": "zstanley@gmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 298
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 450
+      }
+    ]
+  },
+  {
+    "customer_id": "5d5b3e72",
+    "name": "Meera Mehta",
+    "age": 42,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [],
+    "satisfaction_score": 1.6,
+    "churned": true,
+    "email": "liuruth@howard.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1837
+      },
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 776
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 815
+      }
+    ]
+  },
+  {
+    "customer_id": "5c7ae303",
+    "name": "Meera Singh",
+    "age": 25,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-08"
+    },
+    "issues": [],
+    "satisfaction_score": 1.1,
+    "churned": true,
+    "email": "susanmunoz@hotmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1605
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 953
+      }
+    ]
+  },
+  {
+    "customer_id": "1e897965",
+    "name": "Anaya Singh",
+    "age": 47,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [],
+    "satisfaction_score": 4.8,
+    "churned": true,
+    "email": "sharoncoleman@yahoo.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1909
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1355
+      }
+    ]
+  },
+  {
+    "customer_id": "d3200092",
+    "name": "Diya Kapoor",
+    "age": 20,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-12"
+    },
+    "issues": [
+      "Late delivery",
+      "Missing item"
+    ],
+    "satisfaction_score": 2.6,
+    "churned": true,
+    "email": "jodi00@brown.info",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1985
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 630
+      }
+    ]
+  },
+  {
+    "customer_id": "f2a26aad",
+    "name": "Aarav Jain",
+    "age": 24,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-20"
+    },
+    "issues": [
+      "Damaged product"
+    ],
+    "satisfaction_score": 1.6,
+    "churned": true,
+    "email": "dawsondavid@yahoo.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 851
+      }
+    ]
+  },
+  {
+    "customer_id": "0dd99c72",
+    "name": "Kiara Chopra",
+    "age": 48,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-07-01"
+    },
+    "issues": [],
+    "satisfaction_score": 4.7,
+    "churned": false,
+    "email": "villarrealhunter@yahoo.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1820
+      }
+    ]
+  },
+  {
+    "customer_id": "e1b82ffe",
+    "name": "Kiara Reddy",
+    "age": 33,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-11"
+    },
+    "issues": [
+      "Wrong item",
+      "Missing item"
+    ],
+    "satisfaction_score": 1.9,
+    "churned": true,
+    "email": "doyleana@davis-fisher.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1797
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 691
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1812
+      }
+    ]
+  },
+  {
+    "customer_id": "23775292",
+    "name": "Kiara Patel",
+    "age": 30,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-23"
+    },
+    "issues": [],
+    "satisfaction_score": 3.6,
+    "churned": false,
+    "email": "nancylang@hobbs.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1738
+      }
+    ]
+  },
+  {
+    "customer_id": "abe07075",
+    "name": "Vivaan Mehta",
+    "age": 22,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-19"
+    },
+    "issues": [
+      "Damaged product"
+    ],
+    "satisfaction_score": 3.1,
+    "churned": false,
+    "email": "herreradaniel@ruiz-winters.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 396
+      }
+    ]
+  },
+  {
+    "customer_id": "2a21ae3e",
+    "name": "Aditya Singh",
+    "age": 47,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-05"
+    },
+    "issues": [],
+    "satisfaction_score": 4.7,
+    "churned": true,
+    "email": "wendy88@gmail.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1349
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1890
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1216
+      }
+    ]
+  },
+  {
+    "customer_id": "b824234f",
+    "name": "Meera Sharma",
+    "age": 32,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-15"
+    },
+    "issues": [],
+    "satisfaction_score": 1.7,
+    "churned": true,
+    "email": "adamgriffin@hotmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1238
+      },
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 734
+      }
+    ]
+  },
+  {
+    "customer_id": "3a84c614",
+    "name": "Ira Jain",
+    "age": 28,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-07-01"
+    },
+    "issues": [],
+    "satisfaction_score": 1.5,
+    "churned": true,
+    "email": "hayesnorma@hernandez-miller.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1429
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 250
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 222
+      }
+    ]
+  },
+  {
+    "customer_id": "d0cc1c80",
+    "name": "Anaya Jain",
+    "age": 33,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-26"
+    },
+    "issues": [],
+    "satisfaction_score": 3.3,
+    "churned": false,
+    "email": "brycenewman@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 455
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1625
+      }
+    ]
+  },
+  {
+    "customer_id": "63fad979",
+    "name": "Anaya Reddy",
+    "age": 36,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-26"
+    },
+    "issues": [
+      "Late delivery",
+      "Missing item"
+    ],
+    "satisfaction_score": 3.8,
+    "churned": true,
+    "email": "calvin04@abbott.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 357
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 466
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 507
+      }
+    ]
+  },
+  {
+    "customer_id": "88ed2cc0",
+    "name": "Anaya Chopra",
+    "age": 40,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-01"
+    },
+    "issues": [],
+    "satisfaction_score": 2.9,
+    "churned": true,
+    "email": "montgomerydanielle@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1489
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1664
+      }
+    ]
+  },
+  {
+    "customer_id": "987e08fb",
+    "name": "Vivaan Singh",
+    "age": 54,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-29"
+    },
+    "issues": [],
+    "satisfaction_score": 3.6,
+    "churned": false,
+    "email": "bethparker@conrad.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1942
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 376
+      }
+    ]
+  },
+  {
+    "customer_id": "4f2af7b9",
+    "name": "Anaya Mehta",
+    "age": 45,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-15"
+    },
+    "issues": [],
+    "satisfaction_score": 3.8,
+    "churned": false,
+    "email": "brenda46@church.org",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1984
+      }
+    ]
+  },
+  {
+    "customer_id": "4150e496",
+    "name": "Aarav Singh",
+    "age": 28,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-29"
+    },
+    "issues": [
+      "Refund delay",
+      "Wrong item"
+    ],
+    "satisfaction_score": 3.7,
+    "churned": true,
+    "email": "dustin78@andrews-glover.net",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 566
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1469
+      }
+    ]
+  },
+  {
+    "customer_id": "1871cb8c",
+    "name": "Kiara Patel",
+    "age": 35,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-16"
+    },
+    "issues": [],
+    "satisfaction_score": 4.3,
+    "churned": false,
+    "email": "evelyn94@gmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1466
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 123
+      },
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1215
+      }
+    ]
+  },
+  {
+    "customer_id": "08d7a684",
+    "name": "Aarav Sharma",
+    "age": 59,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-02"
+    },
+    "issues": [
+      "Refund delay",
+      "Missing item"
+    ],
+    "satisfaction_score": 3.3,
+    "churned": true,
+    "email": "lsalinas@howell.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 387
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1092
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 681
+      }
+    ]
+  },
+  {
+    "customer_id": "ccc9b66d",
+    "name": "Aarav Singh",
+    "age": 58,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-16"
+    },
+    "issues": [],
+    "satisfaction_score": 1.1,
+    "churned": true,
+    "email": "elizabeth03@jacobs.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1458
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1865
+      }
+    ]
+  },
+  {
+    "customer_id": "f218cbf1",
+    "name": "Meera Jain",
+    "age": 45,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-06"
+    },
+    "issues": [
+      "Late delivery"
+    ],
+    "satisfaction_score": 4.8,
+    "churned": true,
+    "email": "weavermadeline@cortez-brown.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1662
+      }
+    ]
+  },
+  {
+    "customer_id": "eaf8cade",
+    "name": "Anaya Chopra",
+    "age": 45,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-13"
+    },
+    "issues": [
+      "Late delivery"
+    ],
+    "satisfaction_score": 2.0,
+    "churned": true,
+    "email": "candrews@sandoval-castillo.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 628
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 682
+      }
+    ]
+  },
+  {
+    "customer_id": "f3199ca1",
+    "name": "Aditya Kapoor",
+    "age": 28,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-10"
+    },
+    "issues": [],
+    "satisfaction_score": 3.9,
+    "churned": true,
+    "email": "matthew53@gmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 292
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1552
+      }
+    ]
+  },
+  {
+    "customer_id": "a7a5a760",
+    "name": "Vihaan Singh",
+    "age": 40,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-28"
+    },
+    "issues": [
+      "Missing item",
+      "Refund delay"
+    ],
+    "satisfaction_score": 4.6,
+    "churned": true,
+    "email": "kingyvonne@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1182
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 922
+      }
+    ]
+  },
+  {
+    "customer_id": "11a128a1",
+    "name": "Ira Mehta",
+    "age": 57,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-29"
+    },
+    "issues": [],
+    "satisfaction_score": 3.4,
+    "churned": false,
+    "email": "petersonlindsey@gmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1512
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1787
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 934
+      }
+    ]
+  },
+  {
+    "customer_id": "21d7ca68",
+    "name": "Vihaan Kapoor",
+    "age": 31,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-25"
+    },
+    "issues": [
+      "Refund delay",
+      "Missing item",
+      "Late delivery"
+    ],
+    "satisfaction_score": 4.8,
+    "churned": true,
+    "email": "stephensjessica@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1920
+      }
+    ]
+  },
+  {
+    "customer_id": "bcec1f8f",
+    "name": "Diya Patel",
+    "age": 43,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-02"
+    },
+    "issues": [],
+    "satisfaction_score": 1.4,
+    "churned": true,
+    "email": "markmeza@walters-schaefer.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "customer_id": "150a9ed7",
+    "name": "Aditya Sharma",
+    "age": 42,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-13"
+    },
+    "issues": [],
+    "satisfaction_score": 1.6,
+    "churned": true,
+    "email": "james13@wilcox.org",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 835
+      },
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 605
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 357
+      }
+    ]
+  },
+  {
+    "customer_id": "f6591b66",
+    "name": "Diya Sharma",
+    "age": 51,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-27"
+    },
+    "issues": [
+      "Missing item",
+      "Refund delay",
+      "Damaged product"
+    ],
+    "satisfaction_score": 2.1,
+    "churned": true,
+    "email": "corycarlson@miller.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 908
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1469
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 464
+      }
+    ]
+  },
+  {
+    "customer_id": "da050b8e",
+    "name": "Aarav Mehta",
+    "age": 44,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-22"
+    },
+    "issues": [
+      "Damaged product",
+      "Wrong item"
+    ],
+    "satisfaction_score": 3.7,
+    "churned": true,
+    "email": "jon21@flores.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1487
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1171
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 966
+      }
+    ]
+  },
+  {
+    "customer_id": "4b89628c",
+    "name": "Diya Jain",
+    "age": 34,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-14"
+    },
+    "issues": [
+      "Refund delay",
+      "Damaged product"
+    ],
+    "satisfaction_score": 1.8,
+    "churned": true,
+    "email": "colemangordon@yahoo.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1606
+      }
+    ]
+  },
+  {
+    "customer_id": "713da6cc",
+    "name": "Vihaan Reddy",
+    "age": 49,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-24"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 3.9,
+    "churned": false,
+    "email": "jordanbruce@brown.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 625
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1560
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1444
+      }
+    ]
+  },
+  {
+    "customer_id": "82063826",
+    "name": "Aditya Gupta",
+    "age": 56,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-06"
+    },
+    "issues": [
+      "Late delivery"
+    ],
+    "satisfaction_score": 2.4,
+    "churned": true,
+    "email": "johnsonnancy@gmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1403
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1605
+      }
+    ]
+  },
+  {
+    "customer_id": "4f9ecdb9",
+    "name": "Aditya Kapoor",
+    "age": 38,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-28"
+    },
+    "issues": [],
+    "satisfaction_score": 5.0,
+    "churned": false,
+    "email": "david15@hunt.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 660
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1920
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 409
+      }
+    ]
+  },
+  {
+    "customer_id": "811b1885",
+    "name": "Meera Singh",
+    "age": 60,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-10"
+    },
+    "issues": [
+      "Refund delay",
+      "Damaged product",
+      "Late delivery"
+    ],
+    "satisfaction_score": 4.4,
+    "churned": true,
+    "email": "stephenreynolds@gmail.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 692
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1016
+      }
+    ]
+  },
+  {
+    "customer_id": "2aded68e",
+    "name": "Aditya Mehta",
+    "age": 55,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-09"
+    },
+    "issues": [],
+    "satisfaction_score": 4.3,
+    "churned": true,
+    "email": "wdean@gmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1972
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1439
+      }
+    ]
+  },
+  {
+    "customer_id": "cc5cce9e",
+    "name": "Meera Gupta",
+    "age": 47,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-08"
+    },
+    "issues": [
+      "Late delivery",
+      "Missing item"
+    ],
+    "satisfaction_score": 1.4,
+    "churned": true,
+    "email": "urichardson@gmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1291
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 645
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 715
+      }
+    ]
+  },
+  {
+    "customer_id": "bfbcb3bb",
+    "name": "Arjun Reddy",
+    "age": 23,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-07-01"
+    },
+    "issues": [
+      "Damaged product",
+      "Late delivery"
+    ],
+    "satisfaction_score": 2.3,
+    "churned": true,
+    "email": "melissaali@bass-case.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 287
+      }
+    ]
+  },
+  {
+    "customer_id": "d4e0acf0",
+    "name": "Ira Singh",
+    "age": 39,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [],
+    "satisfaction_score": 2.0,
+    "churned": true,
+    "email": "murphymatthew@yahoo.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1652
+      },
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 644
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 646
+      }
+    ]
+  },
+  {
+    "customer_id": "da7c851a",
+    "name": "Anaya Sharma",
+    "age": 29,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-23"
+    },
+    "issues": [],
+    "satisfaction_score": 2.0,
+    "churned": true,
+    "email": "kmiller@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 104
+      },
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1858
+      }
+    ]
+  },
+  {
+    "customer_id": "4d3b6e2d",
+    "name": "Aarav Sharma",
+    "age": 29,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-01"
+    },
+    "issues": [
+      "Late delivery"
+    ],
+    "satisfaction_score": 3.5,
+    "churned": true,
+    "email": "farrellstephen@rose.net",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 389
+      }
+    ]
+  },
+  {
+    "customer_id": "b6461e1b",
+    "name": "Arjun Kapoor",
+    "age": 41,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-17"
+    },
+    "issues": [],
+    "satisfaction_score": 1.5,
+    "churned": true,
+    "email": "patriciayates@davis-ramirez.info",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1387
+      }
+    ]
+  },
+  {
+    "customer_id": "922f157e",
+    "name": "Vihaan Patel",
+    "age": 49,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-30"
+    },
+    "issues": [
+      "Wrong item",
+      "Late delivery"
+    ],
+    "satisfaction_score": 4.1,
+    "churned": true,
+    "email": "wfarrell@mcdowell.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 151
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1957
+      }
+    ]
+  },
+  {
+    "customer_id": "a006b235",
+    "name": "Anaya Patel",
+    "age": 53,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-27"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 1.8,
+    "churned": true,
+    "email": "fieldsnatasha@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1059
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1773
+      }
+    ]
+  },
+  {
+    "customer_id": "afea1a2c",
+    "name": "Meera Verma",
+    "age": 31,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-27"
+    },
+    "issues": [
+      "Missing item",
+      "Wrong item"
+    ],
+    "satisfaction_score": 1.3,
+    "churned": true,
+    "email": "jkennedy@gmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1430
+      }
+    ]
+  },
+  {
+    "customer_id": "5ee9b223",
+    "name": "Meera Sharma",
+    "age": 60,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-14"
+    },
+    "issues": [
+      "Refund delay",
+      "Missing item"
+    ],
+    "satisfaction_score": 4.6,
+    "churned": true,
+    "email": "knappjason@yahoo.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 253
+      }
+    ]
+  },
+  {
+    "customer_id": "c7a462d2",
+    "name": "Meera Singh",
+    "age": 27,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-11"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 2.0,
+    "churned": true,
+    "email": "paulramirez@mcclure.org",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1904
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1690
+      }
+    ]
+  },
+  {
+    "customer_id": "4c865ef8",
+    "name": "Ira Jain",
+    "age": 18,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-27"
+    },
+    "issues": [
+      "Wrong item"
+    ],
+    "satisfaction_score": 4.5,
+    "churned": false,
+    "email": "brandonali@gmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 871
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1343
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1264
+      }
+    ]
+  },
+  {
+    "customer_id": "1eb127d7",
+    "name": "Ira Kapoor",
+    "age": 23,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-24"
+    },
+    "issues": [],
+    "satisfaction_score": 3.1,
+    "churned": false,
+    "email": "xschmidt@davenport-nielsen.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1516
+      }
+    ]
+  },
+  {
+    "customer_id": "72df0811",
+    "name": "Arjun Jain",
+    "age": 23,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-13"
+    },
+    "issues": [
+      "Refund delay",
+      "Missing item"
+    ],
+    "satisfaction_score": 4.4,
+    "churned": true,
+    "email": "fernandezcaitlin@cardenas.net",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 533
+      }
+    ]
+  },
+  {
+    "customer_id": "e6b3c1b0",
+    "name": "Kiara Kapoor",
+    "age": 41,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-19"
+    },
+    "issues": [
+      "Damaged product",
+      "Wrong item",
+      "Missing item"
+    ],
+    "satisfaction_score": 2.8,
+    "churned": true,
+    "email": "turnershirley@hotmail.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1016
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 112
+      }
+    ]
+  },
+  {
+    "customer_id": "e62d11b9",
+    "name": "Vihaan Chopra",
+    "age": 45,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-23"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 1.5,
+    "churned": true,
+    "email": "lori48@powell.org",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1396
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 147
+      }
+    ]
+  },
+  {
+    "customer_id": "828eed73",
+    "name": "Aditya Sharma",
+    "age": 37,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-10"
+    },
+    "issues": [],
+    "satisfaction_score": 1.8,
+    "churned": true,
+    "email": "kbishop@robinson.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1886
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1249
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 430
+      }
+    ]
+  },
+  {
+    "customer_id": "500a5772",
+    "name": "Vihaan Kapoor",
+    "age": 59,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-13"
+    },
+    "issues": [
+      "Damaged product",
+      "Late delivery"
+    ],
+    "satisfaction_score": 3.8,
+    "churned": true,
+    "email": "cassie39@hotmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 360
+      }
+    ]
+  },
+  {
+    "customer_id": "b201e370",
+    "name": "Kiara Chopra",
+    "age": 43,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-07-01"
+    },
+    "issues": [
+      "Damaged product",
+      "Late delivery"
+    ],
+    "satisfaction_score": 4.6,
+    "churned": true,
+    "email": "wschroeder@bridges-mitchell.info",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 487
+      }
+    ]
+  },
+  {
+    "customer_id": "f42566a6",
+    "name": "Kiara Verma",
+    "age": 41,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [
+      "Refund delay",
+      "Wrong item"
+    ],
+    "satisfaction_score": 3.3,
+    "churned": true,
+    "email": "xnelson@brown.org",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 667
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 153
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1913
+      }
+    ]
+  },
+  {
+    "customer_id": "824181a7",
+    "name": "Vihaan Verma",
+    "age": 30,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-21"
+    },
+    "issues": [
+      "Refund delay",
+      "Wrong item",
+      "Damaged product"
+    ],
+    "satisfaction_score": 3.0,
+    "churned": true,
+    "email": "dawnstone@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 723
+      },
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1702
+      }
+    ]
+  },
+  {
+    "customer_id": "a691af14",
+    "name": "Arjun Jain",
+    "age": 56,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-01"
+    },
+    "issues": [],
+    "satisfaction_score": 2.1,
+    "churned": true,
+    "email": "nicolebeltran@sims-luna.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 199
+      }
+    ]
+  },
+  {
+    "customer_id": "b5d45b06",
+    "name": "Diya Sharma",
+    "age": 25,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-11"
+    },
+    "issues": [],
+    "satisfaction_score": 4.5,
+    "churned": true,
+    "email": "edwardscharles@hotmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1762
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 982
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1673
+      }
+    ]
+  },
+  {
+    "customer_id": "535ec1dc",
+    "name": "Aarav Patel",
+    "age": 52,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-14"
+    },
+    "issues": [
+      "Wrong item",
+      "Refund delay"
+    ],
+    "satisfaction_score": 1.2,
+    "churned": true,
+    "email": "pnichols@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 702
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 201
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1639
+      }
+    ]
+  },
+  {
+    "customer_id": "a3912534",
+    "name": "Vihaan Sharma",
+    "age": 52,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-30"
+    },
+    "issues": [],
+    "satisfaction_score": 1.3,
+    "churned": true,
+    "email": "lbrown@gmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 330
+      }
+    ]
+  },
+  {
+    "customer_id": "c7f67943",
+    "name": "Meera Verma",
+    "age": 48,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-22"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 2.6,
+    "churned": true,
+    "email": "oyang@durham.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 717
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 463
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 848
+      }
+    ]
+  },
+  {
+    "customer_id": "ede1974a",
+    "name": "Aarav Verma",
+    "age": 43,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-03"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 4.4,
+    "churned": true,
+    "email": "charlottesmith@hotmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 603
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1789
+      },
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1533
+      }
+    ]
+  },
+  {
+    "customer_id": "6b2d839c",
+    "name": "Vihaan Singh",
+    "age": 31,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-18"
+    },
+    "issues": [],
+    "satisfaction_score": 2.0,
+    "churned": true,
+    "email": "andrewwilliams@robinson-nelson.net",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 145
+      }
+    ]
+  },
+  {
+    "customer_id": "c0100496",
+    "name": "Diya Chopra",
+    "age": 57,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-13"
+    },
+    "issues": [],
+    "satisfaction_score": 1.2,
+    "churned": true,
+    "email": "sara44@williams-avery.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1866
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1305
+      },
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 397
+      }
+    ]
+  },
+  {
+    "customer_id": "7a0c165c",
+    "name": "Aarav Singh",
+    "age": 21,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-07"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 4.8,
+    "churned": true,
+    "email": "daniel46@yahoo.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 828
+      }
+    ]
+  },
+  {
+    "customer_id": "a77cc592",
+    "name": "Aditya Verma",
+    "age": 28,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-24"
+    },
+    "issues": [
+      "Damaged product",
+      "Refund delay"
+    ],
+    "satisfaction_score": 2.5,
+    "churned": true,
+    "email": "christopher24@gmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 211
+      }
+    ]
+  },
+  {
+    "customer_id": "4372adb2",
+    "name": "Anaya Sharma",
+    "age": 30,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-20"
+    },
+    "issues": [
+      "Damaged product",
+      "Refund delay"
+    ],
+    "satisfaction_score": 1.5,
+    "churned": true,
+    "email": "charles05@yahoo.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 264
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1332
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 136
+      }
+    ]
+  },
+  {
+    "customer_id": "db65d9f4",
+    "name": "Aditya Jain",
+    "age": 48,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 4.5,
+    "churned": true,
+    "email": "chavezstephanie@gonzalez.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 480
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1528
+      }
+    ]
+  },
+  {
+    "customer_id": "e225073a",
+    "name": "Vihaan Chopra",
+    "age": 43,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-23"
+    },
+    "issues": [],
+    "satisfaction_score": 3.3,
+    "churned": false,
+    "email": "thompsonbrianna@hotmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 1881
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 200
+      }
+    ]
+  },
+  {
+    "customer_id": "5c9e7ab5",
+    "name": "Aarav Gupta",
+    "age": 32,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-11"
+    },
+    "issues": [
+      "Damaged product"
+    ],
+    "satisfaction_score": 3.9,
+    "churned": true,
+    "email": "phillip77@gmail.com",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1745
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1734
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 872
+      }
+    ]
+  },
+  {
+    "customer_id": "6d14b291",
+    "name": "Aditya Sharma",
+    "age": 33,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-02"
+    },
+    "issues": [],
+    "satisfaction_score": 2.7,
+    "churned": true,
+    "email": "smcbride@hotmail.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 870
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1222
+      }
+    ]
+  },
+  {
+    "customer_id": "ae73a569",
+    "name": "Aarav Chopra",
+    "age": 43,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-04"
+    },
+    "issues": [],
+    "satisfaction_score": 2.2,
+    "churned": true,
+    "email": "joe00@hall.net",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1434
+      }
+    ]
+  },
+  {
+    "customer_id": "e60522dc",
+    "name": "Vihaan Singh",
+    "age": 41,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-16"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 4.1,
+    "churned": false,
+    "email": "drew48@yahoo.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1958
+      }
+    ]
+  },
+  {
+    "customer_id": "60306a3b",
+    "name": "Kiara Mehta",
+    "age": 54,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-29"
+    },
+    "issues": [],
+    "satisfaction_score": 3.7,
+    "churned": false,
+    "email": "fordelizabeth@hall-lewis.org",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 135
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 790
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1172
+      }
+    ]
+  },
+  {
+    "customer_id": "e56f29ea",
+    "name": "Aditya Jain",
+    "age": 22,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-06"
+    },
+    "issues": [],
+    "satisfaction_score": 5.0,
+    "churned": true,
+    "email": "charles77@yahoo.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Jeans",
+        "category": "Apparel",
+        "rating": null,
+        "price": 608
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 681
+      }
+    ]
+  },
+  {
+    "customer_id": "5a291b5d",
+    "name": "Anaya Reddy",
+    "age": 20,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-03"
+    },
+    "issues": [
+      "Missing item",
+      "Refund delay"
+    ],
+    "satisfaction_score": 3.4,
+    "churned": true,
+    "email": "fuentesdana@yahoo.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1331
+      },
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 1417
+      }
+    ]
+  },
+  {
+    "customer_id": "4b1f0865",
+    "name": "Meera Kapoor",
+    "age": 26,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-28"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 1.2,
+    "churned": true,
+    "email": "hartshelley@mack-morris.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1725
+      }
+    ]
+  },
+  {
+    "customer_id": "4bbcb993",
+    "name": "Kiara Singh",
+    "age": 46,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-10"
+    },
+    "issues": [
+      "Missing item",
+      "Damaged product"
+    ],
+    "satisfaction_score": 3.5,
+    "churned": true,
+    "email": "emartin@hayes-ryan.biz",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1767
+      },
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1454
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 694
+      }
+    ]
+  },
+  {
+    "customer_id": "80cc12f7",
+    "name": "Ira Sharma",
+    "age": 33,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-24"
+    },
+    "issues": [],
+    "satisfaction_score": 4.0,
+    "churned": false,
+    "email": "crystal86@gmail.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 1205
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 803
+      }
+    ]
+  },
+  {
+    "customer_id": "2f31a515",
+    "name": "Ira Singh",
+    "age": 32,
+    "location": "Delhi",
+    "app_usage": {
+      "last_login": "2025-06-23"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 3.9,
+    "churned": false,
+    "email": "gregory38@hotmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1703
+      },
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 480
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 135
+      }
+    ]
+  },
+  {
+    "customer_id": "486e6acc",
+    "name": "Kiara Singh",
+    "age": 18,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-16"
+    },
+    "issues": [],
+    "satisfaction_score": 1.5,
+    "churned": true,
+    "email": "orussell@gmail.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 289
+      },
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 621
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 720
+      }
+    ]
+  },
+  {
+    "customer_id": "eba616d7",
+    "name": "Anaya Singh",
+    "age": 50,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-19"
+    },
+    "issues": [],
+    "satisfaction_score": 3.0,
+    "churned": false,
+    "email": "arangel@shaw.info",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 339
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 957
+      }
+    ]
+  },
+  {
+    "customer_id": "35188a89",
+    "name": "Anaya Patel",
+    "age": 28,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-02"
+    },
+    "issues": [
+      "Late delivery",
+      "Missing item"
+    ],
+    "satisfaction_score": 4.5,
+    "churned": true,
+    "email": "smithlaura@yahoo.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 225
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1787
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1630
+      }
+    ]
+  },
+  {
+    "customer_id": "72a6814b",
+    "name": "Aditya Patel",
+    "age": 35,
+    "location": "Kolkata",
+    "app_usage": {
+      "last_login": "2025-06-25"
+    },
+    "issues": [
+      "Late delivery",
+      "Refund delay"
+    ],
+    "satisfaction_score": 2.5,
+    "churned": true,
+    "email": "elopez@holmes.biz",
+    "returns": 3,
+    "order_history": [
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 276
+      },
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1901
+      }
+    ]
+  },
+  {
+    "customer_id": "d581b3df",
+    "name": "Anaya Patel",
+    "age": 31,
+    "location": "Mumbai",
+    "app_usage": {
+      "last_login": "2025-06-11"
+    },
+    "issues": [
+      "Late delivery",
+      "Damaged product"
+    ],
+    "satisfaction_score": 2.9,
+    "churned": true,
+    "email": "brian17@gmail.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Mobile",
+        "category": "Electronics",
+        "rating": null,
+        "price": 980
+      },
+      {
+        "product_name": "Bag",
+        "category": "Accessories",
+        "rating": null,
+        "price": 764
+      }
+    ]
+  },
+  {
+    "customer_id": "5df6754a",
+    "name": "Anaya Jain",
+    "age": 45,
+    "location": "Pune",
+    "app_usage": {
+      "last_login": "2025-06-19"
+    },
+    "issues": [
+      "Missing item"
+    ],
+    "satisfaction_score": 2.2,
+    "churned": true,
+    "email": "lopezana@yahoo.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Shoes",
+        "category": "Footwear",
+        "rating": null,
+        "price": 1455
+      },
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1566
+      },
+      {
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1060
+      }
+    ]
+  },
+  {
+    "customer_id": "7abd8e15",
+    "name": "Vihaan Jain",
+    "age": 29,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-24"
+    },
+    "issues": [
+      "Refund delay"
+    ],
+    "satisfaction_score": 1.6,
+    "churned": true,
+    "email": "jennifercarrillo@yahoo.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 980
+      }
+    ]
+  },
+  {
+    "customer_id": "4b391494",
+    "name": "Ira Reddy",
+    "age": 43,
+    "location": "Hyderabad",
+    "app_usage": {
+      "last_login": "2025-06-06"
+    },
+    "issues": [],
+    "satisfaction_score": 4.3,
+    "churned": true,
+    "email": "caitlin70@gonzalez-bradford.com",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "T-Shirt",
+        "category": "Apparel",
+        "rating": null,
+        "price": 622
+      },
+      {
+        "product_name": "Watch",
+        "category": "Accessories",
+        "rating": null,
+        "price": 730
+      }
+    ]
+  },
+  {
+    "customer_id": "6df6148f",
+    "name": "Aditya Singh",
+    "age": 47,
+    "location": "Bangalore",
+    "app_usage": {
+      "last_login": "2025-06-10"
+    },
+    "issues": [
+      "Wrong item",
+      "Missing item",
+      "Damaged product"
+    ],
+    "satisfaction_score": 1.1,
+    "churned": true,
+    "email": "kinglisa@west.net",
+    "returns": 0,
+    "order_history": [
+      {
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "rating": null,
+        "price": 371
+      }
+    ]
+  },
+  {
+    "customer_id": "5435968d",
+    "name": "Diya Mehta",
+    "age": 40,
+    "location": "Ahmedabad",
+    "app_usage": {
+      "last_login": "2025-06-19"
+    },
+    "issues": [],
+    "satisfaction_score": 1.8,
+    "churned": true,
+    "email": "jamesboyd@parsons.com",
+    "returns": 2,
+    "order_history": [
+      {
+        "product_name": "Charger",
+        "category": "Electronics",
+        "rating": null,
+        "price": 1199
+      }
+    ]
+  },
+  {
+    "customer_id": "129f30da",
+    "name": "Kiara Reddy",
+    "age": 21,
+    "location": "Chennai",
+    "app_usage": {
+      "last_login": "2025-06-16"
+    },
+    "issues": [
+      "Wrong item"
+    ],
+    "satisfaction_score": 4.9,
+    "churned": false,
+    "email": "davidschneider@phillips.com",
+    "returns": 1,
+    "order_history": [
+      {
+        "product_name": "Book",
+        "category": "Books",
+        "rating": null,
+        "price": 809
+      }
+    ]
+  }
+]
